@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>Aula3_HenriqueShimada</AssemblyName>
+    <RootNamespace>Aula3_HenriqueShimada</RootNamespace>
+  </PropertyGroup>
+
+</Project>

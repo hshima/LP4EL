@@ -1,0 +1,14 @@
+C:\Projects\IFSP\LP4EL\Aula03\Aula3_HenriqueShimada\obj\Debug\netcoreapp3.1\Aula3_HenriqueShimada.csproj.AssemblyReference.cache
+C:\Projects\IFSP\LP4EL\Aula03\Aula3_HenriqueShimada\obj\Debug\netcoreapp3.1\Aula3_HenriqueShimada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\IFSP\LP4EL\Aula03\Aula3_HenriqueShimada\obj\Debug\netcoreapp3.1\Aula3_HenriqueShimada.AssemblyInfoInputs.cache
+C:\Projects\IFSP\LP4EL\Aula03\Aula3_HenriqueShimada\obj\Debug\netcoreapp3.1\Aula3_HenriqueShimada.AssemblyInfo.cs
+C:\Projects\IFSP\LP4EL\Aula03\Aula3_HenriqueShimada\obj\Debug\netcoreapp3.1\Aula3_HenriqueShimada.csproj.CoreCompileInputs.cache
+C:\Projects\IFSP\LP4EL\Aula03\Aula3_HenriqueShimada\obj\Debug\netcoreapp3.1\Aula3_HenriqueShimada.genruntimeconfig.cache
+C:\Projects\IFSP\LP4EL\Aula03\Aula3_HenriqueShimada\bin\Debug\netcoreapp3.1\Aula3_HenriqueShimada.exe
+C:\Projects\IFSP\LP4EL\Aula03\Aula3_HenriqueShimada\bin\Debug\netcoreapp3.1\Aula3_HenriqueShimada.deps.json
+C:\Projects\IFSP\LP4EL\Aula03\Aula3_HenriqueShimada\bin\Debug\netcoreapp3.1\Aula3_HenriqueShimada.runtimeconfig.json
+C:\Projects\IFSP\LP4EL\Aula03\Aula3_HenriqueShimada\bin\Debug\netcoreapp3.1\Aula3_HenriqueShimada.runtimeconfig.dev.json
+C:\Projects\IFSP\LP4EL\Aula03\Aula3_HenriqueShimada\bin\Debug\netcoreapp3.1\Aula3_HenriqueShimada.dll
+C:\Projects\IFSP\LP4EL\Aula03\Aula3_HenriqueShimada\bin\Debug\netcoreapp3.1\Aula3_HenriqueShimada.pdb
+C:\Projects\IFSP\LP4EL\Aula03\Aula3_HenriqueShimada\obj\Debug\netcoreapp3.1\Aula3_HenriqueShimada.dll
+C:\Projects\IFSP\LP4EL\Aula03\Aula3_HenriqueShimada\obj\Debug\netcoreapp3.1\Aula3_HenriqueShimada.pdb
